@@ -1,7 +1,5 @@
 Archivo Principal
 Texto principal del proyecto
-<<<<<<< HEAD
 Rama 1
-=======
 Rama 2
->>>>>>> rama2
+Rama 3
